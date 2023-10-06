@@ -13,5 +13,4 @@ En 1995 sería comprado por USA Networks (junto con Expedia) y trasladado a Hote
 
 
 Se convirtió en uno de los primeros sitios en permitir a los usuarios reservar alojamiento en línea. 
-
-![web suck.com](https://github.com/mrcsflx/SMX2-M8UF1A1-HistoriaWeb-1995-suck.com-MarcosFelix/blob/main/suck-com-example.webp "!!!")
+A medida que Hotels.com comenzó a ofrecer sus servicios en línea, contribuyó al crecimiento de Internet como plataforma para el comercio y los negocios. 
